@@ -1,5 +1,13 @@
 # @logto/connector-feishu-web
 
+## 1.4.6
+
+### Patch Changes
+
+- Updated dependencies [e7b6e9de1]
+- Updated dependencies [b7386a511]
+  - @logto/connector-kit@5.1.0
+
 ## 1.4.5
 
 ### Patch Changes

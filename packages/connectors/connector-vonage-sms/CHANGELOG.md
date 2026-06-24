@@ -1,5 +1,13 @@
 # @logto/connector-vonage-sms
 
+## 0.2.4
+
+### Patch Changes
+
+- Updated dependencies [e7b6e9de1]
+- Updated dependencies [b7386a511]
+  - @logto/connector-kit@5.1.0
+
 ## 0.2.3
 
 ### Patch Changes

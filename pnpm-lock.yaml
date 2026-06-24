@@ -4423,7 +4423,7 @@ importers:
   packages/create:
     dependencies:
       '@logto/cli':
-        specifier: workspace:^1.40.1
+        specifier: workspace:^1.41.0
         version: link:../cli
 
   packages/demo-app:
@@ -13387,7 +13387,7 @@ packages:
     resolution: {integrity: sha512-uTqF9MuPraAQ+IsnPf366RG4cP9RtUi7MLO1N3KEc+wb0a6yKpeL0lmk2IB1jY5KHPAlTc6T/JRdC/YqxHNwkQ==}
 
   oidc-provider@https://codeload.github.com/logto-io/node-oidc-provider/tar.gz/5570006785b44e0f125ee4cb6bf540338721b1f3:
-    resolution: {tarball: https://codeload.github.com/logto-io/node-oidc-provider/tar.gz/5570006785b44e0f125ee4cb6bf540338721b1f3}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/logto-io/node-oidc-provider/tar.gz/5570006785b44e0f125ee4cb6bf540338721b1f3}
     version: 8.6.1
 
   oidc-token-hash@5.0.3:
